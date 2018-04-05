@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+    <string name="car_cost">Total Car Cost</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="APR">APR</string>
+    <string name="LOANorlease">Loan</string>
+    <string name="loanorLEASE">Lease</string>
+    <string name="seek_bar_text">Length of Loan (months): </string>
+    <string name="calculate">Calculate</string>
+    <string name="monthly_payment">Monthly Payment:</string>
+    <string name="output_final">$500</string>
+</resources>
